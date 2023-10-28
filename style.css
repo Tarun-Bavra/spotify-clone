@@ -1,4 +1,9 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-image: url(./assets/nav-bg-sp.svg);
+  display: flex;
+  flex-direction: column;
 }
